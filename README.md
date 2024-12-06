@@ -2,7 +2,7 @@
 
 Hola y Bienvenido a mi perfil de Github!
 
-Soy Ingeniero Electronico con experiencia en telecomunicaciones y conocimientos sólidos en GNU/Linux, seguridad informática, redes IP y Telefonia IP. Cuento con habilidades como desarrollador web en JavaScript y Node.js para soluciones en VoIP y Asterisk y otras soluciones. Puedo ayudarte implementar soluciones de comunicación de alta calidad en tu empresa. Puedo llevar tus soluciones de comunicación al siguiente nivel, la combinacion de mis habilidades en telecomunicaciones, seguridad informática y desarrollo de software te permitirá mejorar la eficiencia y efectividad de tus sistemas de comunicación de manera significativa.
+Profesional con 15 años de experiencia en áreas de VOIP, redes, telecomunicaciones, Linux y seguridad informática, con habilidades en desarrollo full stack (MERN) y administración de sistemas. Actualmente, estoy explorando e integrando prácticas de DevOps, como gestión de infraestructura con herramientas como Docker, CI/CD, y monitoreo. Apasionado por mejorar procesos de desarrollo y despliegue a través de la automatización y la colaboración.
 
 
 ## 🌐 Socials:
