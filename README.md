@@ -2,7 +2,7 @@
 
 Hola y Bienvenido a mi perfil de Github!
 
-Profesional con 15 años de experiencia en áreas de VOIP, redes, telecomunicaciones, Linux y seguridad informática, con habilidades en desarrollo full stack (MERN) y administración de sistemas. Actualmente, estoy explorando e integrando prácticas de DevOps, como gestión de infraestructura con herramientas como Docker, CI/CD, y monitoreo. Apasionado por mejorar procesos de desarrollo y despliegue a través de la automatización y la colaboración.
+Profesional con 15 años de experiencia en áreas de VOIP, redes, telecomunicaciones, Linux y seguridad informática, con habilidades en desarrollo full stack en ReactJs, NodeJs, Pyhton, MongoDB, Mysql y administración de sistemas. Este recorrido profesional me ha permitido evolucionar hacia un perfil de Desarrollo y Operaciones por lo que actualmente, estoy integrando prácticas de DevOps, como gestión de infraestructura con herramientas como Docker, CI/CD, y monitoreo. Lo que contribuye con mi pasión por mejorar procesos de desarrollo, aumentar la confianza en las aplicaciones, responder mejor a las necesidades de los clientes y alcanzar los objetivos comerciales más rápido.
 
 
 ## 🌐 Socials:
